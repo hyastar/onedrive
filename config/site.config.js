@@ -39,7 +39,7 @@ module.exports = {
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
 
-    'Powered by <a href="https://hydrae.cc" target="_blank" rel="noopener noreferrer">Houanxin&#39;netdisc</a>. Made with ❤ by Houanxin.',
+    'Powered by <a href="https://hydrae.cc" target="_blank" rel="noopener noreferrer">Houanxin&#39;netdisc</a>. Made with ❤ by Houanxin.<img width="64" height="64" src="https://img.icons8.com/dusk/64/airplane-take-off.png" alt="airplane-take-off"/>',
 
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
